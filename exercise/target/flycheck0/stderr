@@ -1,1 +1,1 @@
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.02s
+error: manifest path `/home/rahul-patle/rustling/exercise/Cargo.toml` does not exist
