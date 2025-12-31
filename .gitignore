@@ -3,3 +3,5 @@ Makefile
 **/*.rs.bk
 Makefile
 .bin
+/debug
+/flycheck0
