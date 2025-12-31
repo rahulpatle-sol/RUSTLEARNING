@@ -2,3 +2,4 @@ Makefile
 /target
 **/*.rs.bk
 Makefile
+.bin
